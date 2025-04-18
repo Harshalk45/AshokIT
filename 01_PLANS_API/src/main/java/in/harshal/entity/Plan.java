@@ -17,6 +17,7 @@ import lombok.Data;
 @Table(name="PLAN_MASTER")
 public class Plan {
     
+	
 	@Id
 	@GeneratedValue
 	@Column(name="PLAN_ID")
