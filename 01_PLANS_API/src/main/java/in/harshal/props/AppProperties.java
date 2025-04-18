@@ -15,5 +15,5 @@ import lombok.Data;
 @Configuration
 public class AppProperties {
     
-	private Map<String, String> messages = new HashMap<>();
+	private Map<String, String> messages = new HashMap<>();	
 }
