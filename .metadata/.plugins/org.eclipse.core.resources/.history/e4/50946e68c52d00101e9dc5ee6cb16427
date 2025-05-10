@@ -17,7 +17,6 @@ import lombok.Data;
 @Table(name="PLAN_MASTER")
 public class Plan {
     
-	//harshal
 	@Id
 	@GeneratedValue
 	@Column(name="PLAN_ID")

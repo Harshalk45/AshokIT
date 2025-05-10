@@ -32,7 +32,7 @@ public class PlanRestController {
 		this.messages = appProps.getMessages();
 	}
 	
-	
+	     // harshal
 	@GetMapping("/categories")
 	public ResponseEntity<Map<Integer,String>> planCategories(){
     
