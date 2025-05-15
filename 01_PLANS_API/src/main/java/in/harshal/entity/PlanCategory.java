@@ -1,4 +1,4 @@
-package com.plansapi.entity;
+package in.harshal.entity;
 
 import java.time.LocalDate;
 
